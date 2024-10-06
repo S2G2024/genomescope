@@ -2,12 +2,13 @@
 
 #BGA24/sessions #GitPod #Tools #Kmers
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/genomescope) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/genomescope) 
 ## Session Leader(s)
 
-Kamil Jaron
+Noah Gettle
+Ksenia Krasheninnikova
 
 ## Programme
 
